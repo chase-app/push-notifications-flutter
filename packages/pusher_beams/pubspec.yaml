@@ -23,7 +23,7 @@ dependencies:
     git:
       url: https://github.com/chase-app/push-notifications-flutter.git
       path: packages/pusher_beams_ios
-    pusher_beams_web:
+  pusher_beams_web:
     git:
       url: https://github.com/chase-app/push-notifications-flutter.git
       path: packages/pusher_beams_web
